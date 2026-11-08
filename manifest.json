@@ -1,12 +1,12 @@
 {
   "name": "gem-led-2ch",
-  "version": "20261109.3.8",
+  "version": "20261109.3.9",
   "builds": [
     {
       "chipFamily": "ESP32-C3",
       "ota": {
-        "path": "firmware/20261109.3.8.ota.bin",
-        "md5": "1df722bd1c7312fb151cb3e87dbe3c6a"
+        "path": "firmware/20261109.3.9.ota.bin",
+        "md5": "cb69a7553380ae6bc31f77ead4d70b1f"
       }
     }
   ]
